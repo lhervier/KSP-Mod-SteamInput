@@ -1,0 +1,5 @@
+.vscode
+Output
+Release
+obj
+__pycache__/
