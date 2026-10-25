@@ -12,11 +12,11 @@ KSP in Steam, and only fixes which one is active:
 | What you are doing | Action set |
 |---|---|
 | Main menu, space center, its buildings, pause menu | Menu |
-| Flying (maneuver mode included), FreeIVA | Flight |
+| Flying (maneuver mode included), IVA in a seat | Flight |
 | Docking mode | Docking |
 | VAB, SPH, mission builder | Editor |
 | Map view (from flight, docking or EVA), tracking station | Map |
-| EVA, EVA construction | EVA |
+| EVA, EVA construction, FreeIVA out of the seat | EVA |
 
 Replacing the stock plugin also brings back joystick support in the Steam version of the game.
 
